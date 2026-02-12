@@ -1,2 +1,7 @@
+ futuro_pessoal
+2 habitos:
+ouvir musica
+se estressar
 meta do ano:
 passar de ano.
+main
